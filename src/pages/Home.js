@@ -1,0 +1,13 @@
+import React from "react";
+
+const HomePage = () => (
+    <>
+        <h1>Hello, welcome to my blog!</h1>
+        <p>Organization will obviously be the main topic of my blog, but get ready because you will be seeing much more of the face behind Horderly (me), and a mixture of lifestyle including my favorite fashion finds, products, and other small businesses. Writing has never been a strong suite of mine and I will tell you, I am no expert on any of this. I may be a “perfectionist” but I am nowhere near perfect. I figure it will be a lot of trial and error so please bear with me on any grammar/spelling mistakes (disclaimer – I like to talk with many dashes and parentheses) and please feel free to always share your advice and communicate with me along the way! I hope to inspire you because truthfully, you all inspire me and I am SO looking forward to bringing you a more organized way of living.</p>
+        <p><strong>Revamp experience</strong></p>
+        <p>After being inspired to start my blog, I wanted to act fast. This is not a fast task people. Not only did I want to start a blog, but after having my business for a year and a half now, I was ready to totally revamp my brand and website which I initially created on my own. Creating a website and/or blog is WORK and if you’re looking for that ideal web designer – be prepare to be on a waiting list (and pay a fortune). However, that did not happen to me. I was blessed to find the exact web designer I needed which I am excited to share with you a little bit about, Branded By Britt.</p>
+        <p>I trusted Brittney from the moment of first email. I reached out to her in a rush and she made sure to make the time to give me exactly what I was looking for, and she sure did! Now, I don’t know if Brittney had ever worked for a “Professional Organizer” before but I must say, it could not have been easy! Being a Professional Organizer naturally comes with a side of OCD and perfectionism (yes, I grew up this way) and she accommodated every single question, request, and tiny little detail in a timely and more than professional manner. The way she works is very organized (LOVE) and she keeps you up to date throughout the entire process. Her intelligence on web design is incredible and you can tell right away that she has a true passion for what she does. Branded By Britt not only offers branding and web design but WordPress support thereafter for those of you, like me, that have trouble when it comes to, well…all tech. To say the least, Britt has created the timeless brand and website that I was looking for and I couldn’t ask for anything more! THANK YOU BRITTNEY</p>
+    </>
+);
+
+export default HomePage;
